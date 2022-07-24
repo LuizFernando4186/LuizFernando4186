@@ -3,7 +3,7 @@
 
 - 🐉 Estudante de Sistemas de Informação. 
 - 🐲 Estudando JavaScript, HTML e CSS.
-- 🔥 Conhecimento: Java, C, R, JS, HTML e CSS.
+- 🔥 Conhecimentos: Java, C, R, JS, HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/LuizFernando4186">
